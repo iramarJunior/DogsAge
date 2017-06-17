@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Idade de cachorro</string>
+
+    <string name="txt_age_question">Preencha as informações para saber a idade do seu cachorro:</string>
+    <string name="txt_porte">Porte</string>
+    <string name="txt_raca">Raça</string>
+    <string name="btn_calcular">Calcular</string>
+
+    <string-array name="cachorro_porte">
+        <item>Pequeno até 9Kg</item>
+        <item>Médio 10 a 23Kg</item>
+        <item>Grande maior que 24Kg</item>
+    </string-array>
+
+    <string-array name="cachorro_raca">
+        <item>Outro</item>
+        <item>Lhasa Apso</item>
+        <item>Shih Tzu</item>
+        <item>Chihuahua</item>
+        <item>Cocker Spaniel</item>
+        <item>Pug</item>
+        <item>Buldogue Francês</item>
+        <item>Labrador Retriever</item>
+        <item>Golden Retriever</item>
+        <item>Staffordshire Bull Terrier</item>
+        <item>Pastor Alemão</item>
+        <item>Boxer</item>
+    </string-array>
+
+</resources>
